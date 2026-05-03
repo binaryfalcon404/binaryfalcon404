@@ -30,7 +30,7 @@ Currently leveling up: **C, Rust, low-level systems, RF/SDR, ham radio.**
 
 ### Cybersec progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Filippos09.png)](https://tryhackme.com/p/Filippos09)
+🎯 [TryHackMe profile: @Filippos09](https://tryhackme.com/p/Filippos09)
 
 69 rooms · Top 8% · Platinum league · 6.3k pts  
 Paths: Pre-Security ✅ · Cybersecurity 101 (77%) · Jr Pen Tester (23%) · Web Fundamentals (26%)
