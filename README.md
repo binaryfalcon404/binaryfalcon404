@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Filippos 👋</h1>
 <p align="center">
-  17 · Athens, Greece · Building toward ESA
+  17 · Greece · Building toward ESA
 </p>
 
 ---
@@ -15,8 +15,6 @@
 ### Trajectory
 
 Currently Β΄ Λυκείου (high school).  
-→ CS at ΕΚΠΑ or ΑΠΘ (2027)  
-→ ESOC Darmstadt cybersecurity internship (2030)  
 → NASA / aerospace systems (the long game)
 
 The plan is simple: build hard things every week, document everything, never stop.
@@ -45,5 +43,5 @@ Paths: Pre-Security ✅ · Cybersecurity 101 (77%) · Jr Pen Tester (23%) · Web
 ### Find me
 
 GitHub: you're already here.  
-Email: <!-- add email here when ready -->  
+Email: binaryfalcon404@gmail.com  
 LinkedIn: opening summer 2026.
