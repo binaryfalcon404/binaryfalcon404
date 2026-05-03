@@ -7,8 +7,8 @@
 
 ### What I'm building
 
-🌱 **Smart greenhouse** that talks to my homelab and yells at me on Telegram when soil dries out.  
-🤖 **TARS** — my personal assistant bot. Tracks workouts, todos, and homelab health from my phone.  
+🌱 **[Smart greenhouse](https://github.com/binaryfalcon404/smart-greenhouse)** - Arduino sensors → InfluxDB → Grafana on my Raspberry Pi homelab.   
+🤖 **TARS** — my personal assistant bot. Tracks workouts, todos, and homelab health from my phone. *(public release coming this week)*
 🛡️ **VulnHunter** — security scanner with an AI triage layer. Currently paused, reviving Summer 2027.  
 📡 **Coming Phase 2:** weather balloon to 30km, satellite tracking ground station, ham radio license.
 
