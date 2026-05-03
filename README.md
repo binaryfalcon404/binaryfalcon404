@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Filippos 👋</h1>
+<p align="center">
+  17 · Athens, Greece · Building toward ESA
+</p>
 
-<!--
-**binaryfalcon404/binaryfalcon404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Smart greenhouse** that talks to my homelab and yells at me on Telegram when soil dries out.  
+🤖 **TARS** — my personal assistant bot. Tracks workouts, todos, and homelab health from my phone.  
+🛡️ **VulnHunter** — security scanner with an AI triage layer. Currently paused, reviving Summer 2027.  
+📡 **Coming Phase 2:** weather balloon to 30km, satellite tracking ground station, ham radio license.
+
+### Trajectory
+
+Currently Β΄ Λυκείου (high school).  
+→ CS at ΕΚΠΑ or ΑΠΘ (2027)  
+→ ESOC Darmstadt cybersecurity internship (2030)  
+→ NASA / aerospace systems (the long game)
+
+The plan is simple: build hard things every week, document everything, never stop.
+
+### Stack I actually use
+
+`Python` `JavaScript` `Bash` · `Arduino` `Raspberry Pi`  
+`Docker` `Linux` `n8n` `InfluxDB` `Grafana` `Git`
+
+Currently leveling up: **C, Rust, low-level systems, RF/SDR, ham radio.**
+
+### Cybersec progress
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Filippos09.png)](https://tryhackme.com/p/Filippos09)
+
+69 rooms · Top 8% · Platinum league · 6.3k pts  
+Paths: Pre-Security ✅ · Cybersecurity 101 (77%) · Jr Pen Tester (23%) · Web Fundamentals (26%)
+
+### Right now (May 2026)
+
+- Shipping Greenhouse v2 (ESP32 + soil sensors + pump automation)
+- Building agency workflows on n8n (Invoice Chaser shipping next)
+- Grinding TryHackMe daily — Jr Pen Tester path
+- Documenting everything in Obsidian
+
+### Find me
+
+GitHub: you're already here.  
+Email: <!-- add email here when ready -->  
+LinkedIn: opening summer 2026.
