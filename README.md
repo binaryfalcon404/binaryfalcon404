@@ -8,7 +8,7 @@
 ### What I'm building
 
 🌱 **[Smart greenhouse](https://github.com/binaryfalcon404/smart-greenhouse)** - Arduino sensors → InfluxDB → Grafana on my Raspberry Pi homelab.   
-🤖 **[TARS](https://github.com/binaryfalcon404/tars-bot)** — my personal assistant bot. Tracks workouts, todos, and homelab health from my phone. *(public release out)*
+🤖 **[TARS](https://github.com/binaryfalcon404/tars-bot)** — my personal assistant bot. Tracks workouts, todos, and homelab health from my phone. *(public release out)*                                                     
 🛡️ **VulnHunter** — security scanner with an AI triage layer. Currently paused, reviving Summer 2027.  
 📡 **Coming Phase 2:** weather balloon to 30km, satellite tracking ground station, ham radio license.
 
